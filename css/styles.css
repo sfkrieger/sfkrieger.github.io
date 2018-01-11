@@ -88,14 +88,16 @@ h1, h2, h3 {
 }
 
 .portfolio-img {
-	width: 100%;
-	max-height: 250px;
+	width: 90%;
+	height: 90%;
+	/* max-height: 250px; */
 	display: block;
 	object-fit: cover;
 }
 
 .project-img {
-	width: 100%;
+	width: 90%;
+	height: 90%;
 	display: block;
 	object-fit: cover;
 }
